@@ -1,0 +1,23 @@
+.message{
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 1em auto 0;
+    text-align: center;
+    max-width: 400px;
+    padding: 1.2em 2em;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #222;
+}
+.success{
+    /* color: green;
+    border-bottom: 4px solid green; */
+    display: none;
+}
+.error{
+    color: #D72323;
+    border-bottom: 4px solid #D72323;
+}

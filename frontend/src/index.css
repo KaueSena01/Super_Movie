@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  font-family:'Segoe UI';
+  background-color: #272932;
+}
+.bold{
+    font-weight: bold;
+    color: #D72323;
+}
