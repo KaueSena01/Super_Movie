@@ -1,4 +1,4 @@
-### Super_Movie
+### Super Movie
 * Project made in React to list information about movies that are about to be released or that have been released recently. 🎬
 
 ### Resources used:
