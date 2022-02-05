@@ -10,4 +10,4 @@
 * React
 * Axios
 
-View post on linkedin: <a href = "https://www.linkedin.com/feed/update/urn:li:activity:6895733840623546368/">Node.js Course</a>
+View post on linkedin: <a href = "https://www.linkedin.com/feed/update/urn:li:activity:6895733840623546368/">Post</a>
