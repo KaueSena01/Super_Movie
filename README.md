@@ -15,4 +15,5 @@ View post on linkedin: <a href = "https://www.linkedin.com/feed/update/urn:li:ac
 * 📷 Demo photos
 <img src="https://github.com/KaueSena01/Super_Movie/blob/master/assets/banner-1.png" width="100%"/>
 <img src="https://github.com/KaueSena01/Super_Movie/blob/master/assets/banner-2.png" width="100%"/>
+<img src="https://github.com/KaueSena01/Super_Movie/blob/master/assets/banner-4.png" width="100%"/>
 <img src="https://github.com/KaueSena01/Super_Movie/blob/master/assets/banner-3.png" width="100%"/>
